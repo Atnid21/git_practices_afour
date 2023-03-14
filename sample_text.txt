@@ -12,3 +12,5 @@ Git is foundation of many services like GitHub and GitLab, but we can use Git wi
 Git was created by Linus Torvalds in 2005 to develop Linux Kernel. It is also used as an important distributed version-control tool for the DevOps.
 
 Git is easy to learn, and has fast performance. It is superior to other SCM tools like Subversion, CVS, Perforce, and ClearCase.
+
+This is new changes.
